@@ -26,9 +26,8 @@ responsibility
 
 * it may be that when the one reason to change occurs, multiple members
 of the class may need modification , it may also be that multiple  class 
-will require updates 
+will require updates for example 
 
-ex:
 				class Employee{
 					public pay calculatePay(){..}
 					public void save(){...}
