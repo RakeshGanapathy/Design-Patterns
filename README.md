@@ -85,4 +85,7 @@ if you correctly structure classes and their dependencies, you can add
 functionality without editing the existing code 
 
 
-Liskov Substitution principle :
+#  Liskov Substitution principle :
+
+
+#  Design Pattern
