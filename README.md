@@ -2,7 +2,7 @@
 
 # Solid Principles
 
-* **S** =	Single Responsibility Principle
+* **S** =	[Single Responsibility Principle!](https://github.com/RakeshGanapathy/Design-Patterns/blob/master/README.md#single-responsibility-principle)
 * **O** =	Open-Closed Principle
 * **L** =	Liskov Substitution Principle 
 * **I** =	Interface Segregation Principle
