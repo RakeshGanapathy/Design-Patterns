@@ -273,7 +273,7 @@ Design Patterns are broadly classified into 3 types namely
 								2. Structural Pattern
 								3. Behavioural Pattern 
    
-1. Creational Design Pattern 
+# 1. Creational Design Pattern 
 	Creational Design patterns are concerned with the way of creating an object (Instantiation), these design pattern are used 
 	when a decision must be made at the time of instantiation of a class 
 	
@@ -292,8 +292,8 @@ Design Patterns are broadly classified into 3 types namely
 
 
 
-	Singleton :
-			Define a class that has only one instance and provide a global point of access to it 
+	# Singleton 
+					Define a class that has only one instance and provide a global point of access to it 
 			
 	A class must ensure that only single instance should be created and single object can be used by all the other classes
 			
