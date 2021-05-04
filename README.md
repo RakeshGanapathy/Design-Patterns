@@ -295,9 +295,9 @@ Design Patterns are broadly classified into 3 types namely
 	Singleton :
 			Define a class that has only one instance and provide a global point of access to it 
 			
-			A class must ensure that only single instance should be created and single object can be used by all the other classes
+	A class must ensure that only single instance should be created and single object can be used by all the other classes
 			
-			eg:  practical use Singleton patterns are used in logging, caches, thread pools, configuration settings, device driver objects.
+	eg:  practical use Singleton patterns are used in logging, caches, thread pools, configuration settings, device driver objects.
 	
 	How to acheive singleton 
 	 1. make the constructor as private 
