@@ -259,4 +259,55 @@ Instead, split the Messenger interface up so that different ATM functionality de
 		Dont do all the implementation by yourself , do deligate it to respective class 
 		
 	10. Favour Composition over Inheritance 
+
+# Design Pattern 
+
+A Design pattern is a general reusable solution to a commonly occuring problems in software design 
+
+its a template for how to solve a problem that can be used in many different situation 
+
+Pattern are fomalized best practices that the programmer can use to solve common problems while designing an application or system 
+
+Design Patterns are broadly classified into 3 types namely 
+								1. Creational Pattern
+								2. Structural Pattern
+								3. Behavioural Pattern 
+   
+1. Creational Design Pattern 
+	Creational Design patterns are concerned with the way of creating an object (Instantiation), these design pattern are used 
+	when a decision must be made at the time of instantiation of a class 
 	
+	typically we do hard code like 
+	
+		Developer dev = new Developer();
+		
+	types of creational design pattern , 
+						1. Singleton Pattern 
+						2. Factory Pattern 
+						3. Abstract Factory pattern
+						4. Prototype pattern
+						5. Builder pattern
+						6. ObjectPool Pattern
+
+
+
+
+	Singleton :
+			Define a class that has only one instance and provide a global point of access to it 
+			
+			A class must ensure that only single instance should be created and single object can be used by all the other classes
+			
+			eg:  practical use Singleton patterns are used in logging, caches, thread pools, configuration settings, device driver objects.
+	
+	How to acheive singleton 
+	 1. make the constructor as private 
+	 2. create a private static variable of type singleton
+	 3. create a synchronized static method as public with return type as Singleton Class
+
+	There are two forms of instantiation 
+			1. early
+			2. Lazy 
+	
+	
+	
+
