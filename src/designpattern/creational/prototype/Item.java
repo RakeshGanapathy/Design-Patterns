@@ -3,7 +3,6 @@ package designpattern.creational.prototype;
 public abstract class Item implements Cloneable {
 	private String title;
 	private double price;
-	private String url;
 
 	@Override
 	protected Object clone() throws CloneNotSupportedException {
